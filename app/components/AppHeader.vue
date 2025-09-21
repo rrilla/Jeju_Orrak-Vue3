@@ -4,9 +4,11 @@ import { useColorMode } from '#imports';
 
 type NavItem = { label: string; to: string };
 
+const routes = useAppRoutes();
+
 const links = ref<NavItem[]>([
-  { label: '홈', to: '/' },
-  { label: '오름 검색', to: '/search' },
+  { label: '홈', to: routes.home() },
+  { label: '오름 검색', to: routes.orums() },
   { label: '추천 받기', to: '/quiz' },
   { label: '즐겨찾기', to: '/favorites' },
 ]);
@@ -29,7 +31,7 @@ const toggleTheme = () => {
     <UContainer class="py-3">
       <div class="flex items-center gap-3">
         <!-- 로고 -->
-        <NuxtLink to="/" class="flex items-center gap-2 font-semibold">
+        <NuxtLink :to="routes.home()" class="flex items-center gap-2 font-semibold">
           <UIcon name="i-heroicons-fire-20-solid" class="h-5 w-5" />
           <span>오르락(Orrak)</span>
         </NuxtLink>

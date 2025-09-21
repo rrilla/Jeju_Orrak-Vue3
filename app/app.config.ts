@@ -2,9 +2,9 @@
 export default defineAppConfig({
   ui: {
     colors: {
-      //   primary: 'blue',
-      // neutral: 'red',
-      myColor: 'red',
+      //   primary: 'brand',
+      //   brand: 'red', // 내가 정의한 색
+      // myColor: 'red',
     },
     containers: {
       /** 사용법

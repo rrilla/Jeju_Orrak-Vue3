@@ -7,6 +7,32 @@
   --font-sans: 'Pretendard Variable', 'Pretendard', system-ui, sans-serif;
   /* 사용자 전용 테마 변수 생성 */
   --color-my-text: #e96900;
+
+  --color-primary-50: #ecfdf5;
+  --color-primary-100: #d1fae5;
+  --color-primary-200: #a7f3d0;
+  --color-primary-300: #6ee7b7;
+  --color-primary-400: #34d399;
+  --color-primary-500: #10b981;
+  --color-primary-600: #059669;
+  --color-primary-700: #047857;
+  --color-primary-800: #065f46;
+  --color-primary-900: #064e3b;
+  --color-primary-950: #022c22;
+
+  /* //   sunset: {
+      //     50: '#fffbeb',
+      //     100: '#fef3c7',
+      //     200: '#fde68a',
+      //     300: '#fcd34d',
+      //     400: '#fbbf24',
+      //     500: '#f59e0b',
+      //     600: '#d97706',
+      //     700: '#b45309',
+      //     800: '#92400e',
+      //     900: '#78350f',
+      //     950: '#451a03', // ★ 추가
+      //   }, */
 }
 
 :root {

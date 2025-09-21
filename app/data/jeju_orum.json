@@ -1,0 +1,3211 @@
+[
+  {
+    "name": "가메오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 봉성리 988",
+      "address": "제주시 애월읍 봉성리 988"
+    },
+    "duration_minutes_one_way": {
+      "summit": 3
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["누운오름 교차로 공터에 주차 추천"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["가마솥(가메)을 닮아서 가메오름이라고 해요."],
+    "features": [
+      "아주 낮은 오름이지만 한라산과 주변 오름 조망이 좋은 곳이에요.",
+      "오름전체가 억새로 뒤덮여 있어 가을에 가장 가기 좋아요.",
+      "정상에서 내려다보면 작은 습지가 보이는 것이 특징이에요."
+    ],
+    "cautions": ["풀이 무성해지는 계절엔 오르기 힘든 곳이에요."],
+    "tips": [],
+    "notes": [
+      "밭 입구에 차가 들어가지 못해 철조망이 쳐져 있어 철조망 지나 밭 우측에 오름 입구가 보여요."
+    ]
+  },
+  {
+    "name": "각시바위오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 학수암로 159",
+      "address": "서귀포시 학수암로 159"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["영산사 가기 전 공터에 주차 추천"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'한 서린 각시가 떨어져 죽은 바위'라는 유래를 가진 오름이에요.",
+      "학이 날개를 펼쳐 앉은 모양과 비슷해 '학수악'이라고도 해요."
+    ],
+    "features": [
+      "정상에선 범섬, 섶섬, 문섬 등 서귀포 바다와 시내가 한눈에 보이고, 맞은 편엔 한라산도 가까이 보여서 웅장한 모습을 자아내요."
+    ],
+    "cautions": [
+      "다른 오름들에 비해 길이 험하고 정비되어 있지 않지만 시원한 풍경을 보여주는 곳이에요.",
+      "돌계단 오를 때 주의하세요!"
+    ],
+    "tips": [],
+    "notes": ["영산사 입구 좌측에 오름 올라가는 길이 있어요."]
+  },
+  {
+    "name": "개오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 성읍리 2985",
+      "address": "서귀포시 표선면 성읍리 2985"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20,
+      "course": 60
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 3~4대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["개모양 혹은 밥그릇 뚜껑 모양을 닮아서 지어진 이름이에요."],
+    "features": [
+      "정상에선 영주산과 성읍마을, 따라비오름과 가시리 일대가 보여요.",
+      "오름 전체가 울창한 삼나무 숲으로 이루어져 있어 걷기 좋고, 정상으로 올라가는 길과 오름 둘레길 코스가 있습니다."
+    ],
+    "cautions": ["말 방목지라 진드기에 주의해야 해요.", "말은 예민한 동물이라 가까이 가지 마세요."],
+    "tips": ["오름 입구는 알프스 초원 같이 아름다워요!"],
+    "notes": ["좌표 맞은 편에 오름 입구 안내판과 정자가 있어요."]
+  },
+  {
+    "name": "거린오름",
+    "description": "",
+    "entrance": {
+      "main": "1) 서귀포시 안덕면 동광리 1580",
+      "address": "1) 서귀포시 안덕면 동광리 1580\n2) 서귀포시 안덕면 동광리 1351"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["1번 입구", "넓음", "2번 입구", "갓길 주차"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["오름의 모양새가 두 갈래로 갈라져 있다고 해서 이름 붙여졌어요."],
+    "features": [
+      "정상에서는 한라산, 중턱에서는 산방산과 제주 서남쪽 풍경이 드넓게 펼쳐져 있어 숨겨진 보물 같은 오름이에요.",
+      "종종 목장에서 방목하는 말을 볼 수도 있어요."
+    ],
+    "cautions": [
+      "말똥 주의!",
+      "사유지라 차량 출입을 막기 위한 철문이 있어요.",
+      "길이 잘 정비되지 않았지만, 자연 그대로의 멋이 느껴지는 오름이에요."
+    ],
+    "tips": [],
+    "notes": ["철문 옆에 사람이 지나갈 수 있는 샛길이 있습니다."]
+  },
+  {
+    "name": "거문오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 조천읍 선교로 569-36",
+      "address": "제주시 조천읍 선교로 569-36"
+    },
+    "duration_minutes_one_way": {
+      "summit": 60,
+      "course": 60
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["제주세계자연유산센터 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": [
+        "이용시간: 09:00~13:00",
+        "(회당 50명 한정, 30분 간격 출발)",
+        "입장료: 성인 2,000원, 청소년 1,000원"
+      ]
+    },
+    "name_origin": ["울창한 숲이 검게 보인다 하여 '검은오름(거문오름 )'이에요."],
+    "features": [
+      "천연기념물 제444호로 유네스코 세계자연유산이에요.",
+      "한라산 백록담보다 크고 물이 마르지 않는 화구호를 가졌어요.",
+      "정상 전망대에서는 주변 오름들과 분화구를 조망 할 수 있어요."
+    ],
+    "cautions": ["제주세계유산센터 탐방 예약해야해요."],
+    "tips": [],
+    "notes": ["해설사님의 설명을 들을 수 있어요.", "문의: 064", "710", "8980~1"]
+  },
+  {
+    "name": "거슨새미오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 비자림로 1455",
+      "address": "제주시 구좌읍 비자림로 1455"
+    },
+    "duration_minutes_one_way": {
+      "summit": 40
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["거슨새미오름 생태체험관 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["거슬러 흐르는 샘이 있다고 해서 이름 붙여졌어요."],
+    "features": [
+      "초입에는 마을사람들이 심은 비자나무가, 중간에는 편백나무가 쭉쭉 뻗어있어 숲길이 아름다운 오름이에요.",
+      "탐방로 중간에서 안돌/밧돌오름과 밭과 방풍림 풍경을 볼 수 있어요."
+    ],
+    "cautions": ["정상에선 나무에 가려 탁 트인 뷰를 보기 힘들어요."],
+    "tips": [],
+    "notes": ["입구에는 오름생태체험관도 있어 연계해서 가기 좋아요."]
+  },
+  {
+    "name": "거친오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 봉개동 2750",
+      "address": "제주시 봉개동 2750"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["노루생태관찰원 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": [
+        "이용시간:",
+        "(3월 ~ 10월) 매일 09:00 ~ 18:00",
+        "(11월 ~ 2월) 매일 09:00 ~ 17:00",
+        "입장료: 성인 1,000원, 청소년 600원"
+      ]
+    },
+    "name_origin": ["거친오름은 산세가 거칠다고 하여 지어진 이름이에요."],
+    "features": [
+      "정상에선 한라산을 가까이 볼 수 있고, 제주 시내와 바다가 보여요.",
+      "노루생태관찰원 안에 있으며, 탐방로가 잘 되어 있어 걷기 좋아요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": ["노루 먹이주기 체험도 가능해요.", "문의: 064", "728", "3611"]
+  },
+  {
+    "name": "걸서악(걸세오름)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 남원읍 하례리 967 (오름입구 근처 좌표)",
+      "address": "서귀포시 남원읍 하례리 967"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 근처 막다른 길 끝 공터 주차 추천"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 모습이 마치 문을 걸어 잠그는 걸세(걸쇠) 모양 같아서 걸세오름 또는 걸서악이라고 불려요."
+    ],
+    "features": [
+      "귤이 유명한 남원읍 지역에 있는 만큼 사방이 귤나무예요.",
+      "귤 수확철에 가면 오름 주변이 주황색으로 가득 차 보여요.",
+      "정상에는 마을 사람들을 위한 편의시설이 잘 마련되어 쉬기 좋아요.",
+      "전망대에서는 문섬, 섶섬 등 서귀포 바다와 시내가 환히 잘 보여요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "고근산",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 서호동 1433",
+      "address": "서귀포시 서호동 1433"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["주변에 산이 없어 외롭다는 의미로 지어진 이름이에요."],
+    "features": [
+      "설문대할망이 심심할 때면 한라산을 베고 고근산에 궁둥이를 얹고누워 앞바다에 물장구를 쳤다는 전설이 있어요.",
+      "정상에 오르면 한라산이 정말 가까이 보이고, 서귀포 시내와 섶섬, 문섬, 범섬 등 서귀포의 푸른 바다 풍경을 볼 수 있어요."
+    ],
+    "cautions": [],
+    "tips": ["주민들이 산책하러 많이 오는 곳이며, 밤에는 야경이 아름다워요."],
+    "notes": []
+  },
+  {
+    "name": "고내봉",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 고내리 764-5",
+      "address": "제주시 애월읍 고내리 764-5"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 7~8대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["고내리에 위치하여 마을 이름을 따서 이름 붙여졌어요."],
+    "features": [
+      "정상 전망대에선 한라산과 제주 서부권 오름 군락, 고내리 앞바다와 애월읍 마을 풍광까지 볼 수 있어요.",
+      "주차장부터 올라가는 길이 모두 소나무라 산책하기 좋고, 중간 중간 벤치나 평상이 있어 잠깐 쉬어가기도 좋아요."
+    ],
+    "cautions": [],
+    "tips": ["올라가는 코스가 3개가 있는데, 보광사쪽으로 가는 것을 추천해요."],
+    "notes": ["보광사 우측에 오름입구로 올라가는 길이 있어요."]
+  },
+  {
+    "name": "골체오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 조천읍 선흘리 1910-14 (오름입구 맞은편 좌표)",
+      "address": "제주시 조천읍 선흘리 1910-14"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 7~8대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 모양이 골체(삼태기",
+      "곡식을 거르는 체)를 닮았다고 해서 붙여진 이름이에요."
+    ],
+    "features": [
+      "정상에 서면 거문오름, 부대오름, 민오름(선흘) 등 주변 오름들과 방목되어 있는 말 등 목가적인 풍경을 감상 할 수 있어요."
+    ],
+    "cautions": ["봄 이 외의 계절엔 풀이 무성하고, 관리되어 있지 않아 오르기 힘들어요."],
+    "tips": ["오름전체가 벚나무 군락지여서 봄에 벚꽃 필 때 추천해요!"],
+    "notes": ["좌표 맞은편에 오름 올라가는 입구 표지판이 있어요."]
+  },
+  {
+    "name": "군산(굴메오름)",
+    "description": "",
+    "entrance": {
+      "main": "1) 서귀포시 상예동 산9 (걸어서 5분",
+      "address": "1) 서귀포시 상예동 산9 (걸어서 5분"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["있으나 협소하고, 차가 많아 혼잡"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["오름의 생김새가 군막같이 생겼다고 하여 지어진 이름이에요."],
+    "features": [
+      "올레길 9코스로, 한라산과 산방산, 중문관광단지, 마라도와 가파도까지 제주 서남쪽 일대를 360도로 돌아 볼 수 있어요.",
+      "일제강점기 때 만들어진 진지동굴이 많이 있는 곳이에요."
+    ],
+    "cautions": [],
+    "tips": [
+      "해가 뜰 때는 동쪽 해안에서 뜨고, 해가 질 때는 서쪽 산방산으로 지기 때문에 언제 가도 좋은 곳이에요."
+    ],
+    "notes": ["차로 정상 부근까지 갈 수 있어요. 길이 좁은 외길이라 운전조심!"]
+  },
+  {
+    "name": "궁대오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 성산읍 금백조로 448",
+      "address": "서귀포시 성산읍 금백조로 448"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["제주자연생태공원 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": [
+        "이용시간: 매일 10:00 ~ 17:00 운영",
+        "(입장마감 16:30, 동계: 16:00 / 하산완료 17시까지)",
+        "입장료: 무료"
+      ]
+    },
+    "name_origin": ["활 모양으로 휘어진 오름의 모양에서 유래해 궁대오름이라 불려요."],
+    "features": [
+      "전망대에서는 용눈이, 다랑쉬, 성산일출봉 등 제주 동쪽 오름들을 볼 수 있고, 가을에는 억새가 가득해 편히 산책하기 좋은 오름이에요.",
+      "자연생태공원 안에 있는 오름으로 구조되어 보호받고 있는 독수리, 반달가슴곰, 수리부엉이 등 야생동물들을 가까이 볼 수 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": ["해설 및 먹이주기 체험이 가능해요.", "화장실 있음", "문의: 064", "787", "4711"]
+  },
+  {
+    "name": "궷물오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 산록서로 372",
+      "address": "제주시 애월읍 산록서로 372"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["바위굴(궤)에서 솟아나는 물이 있다고 하여 이름 붙여졌어요."],
+    "features": [
+      "정상에서는 큰노꼬메와 족은노꼬메오름을 가깝게 볼 수 있고, 3개 오름 트레킹 코스가 잘 마련되어 있어 연계하여 가기 좋아요.",
+      "중간에 말과 소를 기르는 테우리(목동)가 쉬던 막사가 있어요.",
+      "정상에서 바다를 등지고 오른쪽으로 내려가면 푸른 들판이 나와요."
+    ],
+    "cautions": ["사유지라 들어가지 않고 입구에서 사진 찍어도 예쁘게 나와요!"],
+    "tips": ["초입에 자연체험학습장이 있어 아이들과 나들이 가기도 좋아요."],
+    "notes": []
+  },
+  {
+    "name": "금오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 한림읍 금악리 1210",
+      "address": "제주시 한림읍 금악리 1210"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓으나 차가 많아 혼잡"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 흙이 유난히 검다 하여 금악오름(또는 흑악)이라고 부르다가 현재는 금오름이 되었어요."
+    ],
+    "features": [
+      "오름 능선을 따라 걸으면 한라산과 제주 서쪽 마을과 밭 뷰, 저 멀리 비양도와 신창풍차해안도로 등이 시원하게 보여요.",
+      "원형 분화구에 물이 고여있어 노을질 때 반영된 모습이 예뻐요.",
+      "하늘에 패러글라이딩 날아다니는 모습을 종종 볼 수 있어요."
+    ],
+    "cautions": [
+      "금오름 분화구 훼손이 심각해요. 분화구 밑으로 내려가지 말아요.",
+      "화산송이를 옮겨 돌탑을 쌓으면 양서류 서식지가 파괴된다고 해요."
+    ],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "남송이오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 안덕면 서광리 1144 (오름입구 근처 좌표)",
+      "address": "서귀포시 안덕면 서광리 1144"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 3~4대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "남쪽 비탈에 소나무 숲이 울창했다고 하여 붙여진 이름이에요.",
+      "솔개가 날개를 편 형태라고 해서 남소로기라고 불리기도 해요."
+    ],
+    "features": [
+      "정상 전망대에선 저 멀리 바다와 함께 서부권 오름 군락과 한라산, 산방산, 녹차밭 등 골고루 조망할 수 있어요."
+    ],
+    "cautions": [],
+    "tips": ["오름 주변에 넓게 펼쳐져 있는 녹차밭과 같이 산책하기 좋아요."],
+    "notes": []
+  },
+  {
+    "name": "낭끼오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 성산읍 수산리 3958-1 (오름입구 근처 좌표)",
+      "address": "서귀포시 성산읍 수산리 3958-1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 3
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 근처 공터에 4~5대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'낭'은 '나무', '끼'는 '변두리'라는 뜻으로 외곽에 나무가 우거진 숲이라는 의미의 오름이에요."
+    ],
+    "features": [
+      "정상 전망대에서는 한라산과 제주 동부권 오름군락, 성산일출봉 등 360도 전망을 볼 수 있지만, 나무가 가려 시원한 느낌은 아니에요."
+    ],
+    "cautions": [],
+    "tips": [
+      "탐방로는 나무계단이 잘 깔려있는 짧은 숲길이라 남녀노소 쉽게 올라 갈 수 있어요.",
+      "오름 입구 앞은 억새군락지예요!",
+      "가을에 추천!"
+    ],
+    "notes": [
+      "네비안내만으로는 입구 찾기가 힘들어요. 위성지도를 참고하여 금백조로에서 진입하면 왼쪽에 입구로 가는 비포장길이 있어요."
+    ]
+  },
+  {
+    "name": "노루손이오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 연동 산146-12 (오름입구 앞 큰 입구석 있음)",
+      "address": "제주시 연동 산146-12"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 3~4대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["노루가 많이 뛰논다고 해서 붙여진 이름이에요."],
+    "features": [
+      "정상에서는 나무가 많이 가려 탁 트인 전망을 볼 수는 없지만, 사이사이로 한라산과 어승생악을 가깝게볼 수 있어요.",
+      "정상뷰 보다 탐방로가 소나무, 삼나무 등 다양한 식생이 어우러진 아름다운 숲길이라 여유롭게 거닐기 아주 좋아요."
+    ],
+    "cautions": [],
+    "tips": ["완만한 평지로 올라갈 수 있어 반려견 산책코스로도 추천해요."],
+    "notes": []
+  },
+  {
+    "name": "녹남봉",
+    "description": "",
+    "entrance": {
+      "main": "1) 서귀포시 대정읍 신도리 1320",
+      "address": "1) 서귀포시 대정읍 신도리 1320\n2) 서귀포시 대정읍 신도리 777-2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["없음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["녹나무가 많아서 녹남봉이라 이름 붙여졌어요."],
+    "features": [
+      "정상에 전망대가 있어 한라산부터 산방산, 모슬봉 등 서남쪽 일대와 농경지와 저멀리 바다까지 광활한 풍경을 볼 수 있어요.",
+      "마을사람들이 분화구에 귤 농사를 짓기도 하고 백일홍 꽃밭을 키우기도 해요. 분화구 따라 한 바퀴 돌며 구경할 수 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "높은오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 송당리 54-1 (구좌읍공설묘지)",
+      "address": "제주시 구좌읍 송당리 54-1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30,
+      "course": 20
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["구좌읍공설묘지 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["말 그대로 동쪽에서 제일 높다 하여 붙여진 이름이에요."],
+    "features": [
+      "정상에 서면 한라산부터 용눈이오름, 다랑쉬오름 등 동쪽 오름들과 성산일출봉, 우도 등 저멀리 바다 풍광까지 볼 수 있어요.",
+      "제주 동쪽 최고 전망대로, 비고만 보았을 때는 다랑쉬오름이 더 높지만, 지대와 해발을 고려하면 높은오름이 가장 높아요.",
+      "넓은 분화구와 함께 능선을 따라 한 바퀴 걷기 좋아요!"
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "누운오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 한림읍 금악리 199-5",
+      "address": "제주시 한림읍 금악리 199-5"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["누운오름 교차로 공터에 주차 추천"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["소가 누워있는 모습과 닮아있다고 해서 붙여진 이름이에요."],
+    "features": [
+      "한라산이 가깝게 보이고, 그 앞으로 새별, 이달오름 등 주변 오름들과 맞은편으로는 한림 비양도와 제주 서부마을까지 시원하게 보여요."
+    ],
+    "cautions": [
+      "정상이나 오름길이 뚜렷하지 않고 풀이 무성해 쉽게 오르기 어렵지만, 먼저 다녀간 오름꾼들의 흔적을 따라가면 탁 트인 뷰를 만날 수 있어요."
+    ],
+    "tips": ["오름 입구 초입의 풍경이 알프스 초원 같이 아름다워요."],
+    "notes": [
+      "교차로에서 진입하여 왼쪽에 빨간 컨테이너를 찾아주세요!",
+      "밭에 들어서서 11시 방향에 있는 말뚝 경계를 따라 올라가요."
+    ]
+  },
+  {
+    "name": "다랑쉬오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 세화리 2705",
+      "address": "제주시 구좌읍 세화리 2705"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 여왕 '다랑쉬'는 오름에 쟁반같이 뜨는 달이 무척 아름답고, 분화구가 마치 달처럼 둥글게 보인다고 하여 이름 붙여졌어요."
+    ],
+    "features": [
+      "정상에선 지미봉, 용눈이오름, 백약이오름 등 동부권 오름군락과 세화, 종달, 성산 등 제주 동쪽 마을을 전체적으로 볼 수 있어요.",
+      "4.3사건 때 다랑쉬오름 아래 있던 다랑쉬마을(현 월랑동)이 토벌대에 의해 마을 전체가 초토화된 아픈 역사를 가지고 있어요."
+    ],
+    "cautions": [],
+    "tips": [
+      "분화구가 넓고 깊어 웅장한 느낌을 자아내고, 아끈다랑쉬오름을 위에다 내려다보는 풍경이 아주 멋져요!",
+      "일출도 아름다운 곳!"
+    ],
+    "notes": []
+  },
+  {
+    "name": "단산(바금지오름)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 대정읍 인성리 21-6",
+      "address": "서귀포시 대정읍 인성리 21-6"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "중상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["제1탐방로 입구 앞 공터 주차 추천"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "박쥐가 날개를 편 모양처럼 생겼다 하여 붙여진 이름이에요.",
+      "제주어로 바구니를 바굼지라고 하는데, 오름의 모습이 바구니처럼 보인다고 해서 바굼지오름이에요."
+    ],
+    "features": [
+      "산방산이 아주 가깝게 보이고, 대정읍의 넓은 평야와 모슬봉, 제주 서남쪽 일대가 시원하게 보이는 곳이에요."
+    ],
+    "cautions": [
+      "대다수의 오름들과 달리 거친 바위로 이루어진 오름이지만, 탐방로가 잘 되어 있는 코스(제 1탐방로)가 있어 어렵지 않아요."
+    ],
+    "tips": [],
+    "notes": ["단산사 입구(제 2탐방로)에서100m정도 걸어가면 나오는 제 1탐방로 코스를 추천해요."]
+  },
+  {
+    "name": "당산봉(차귀오름)",
+    "description": "",
+    "entrance": {
+      "main": "제주시 한경면 고산리 3585 (섬풍경펜션 뒷편 )",
+      "address": "제주시 한경면 고산리 3585"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 갓길에 주차 추천"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["오래전부터 뱀을 제사 지내는 신당이 있어 이름 붙여졌어요."],
+    "features": [
+      "정상 전망대에서 수월봉과 차귀도 등 제주 서쪽 바다와 고산마을 평야(밭) 일대가 파노라마처럼 펼쳐져 있는 곳이에요.",
+      "맞은편에서는 신창풍차해안도로와 풍력발전기가 보여요."
+    ],
+    "cautions": [],
+    "tips": ["차귀도 사이로 떨어지는 노을이 아름다운 일몰명소랍니다."],
+    "notes": [
+      "중간에 갈림길이 나오면 올레길을 따라가지 마시고, 오른쪽으로 가야 오름 정상이 나와요."
+    ]
+  },
+  {
+    "name": "당오름(송당)",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 송당리 1570",
+      "address": "제주시 구좌읍 송당리 1570"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20,
+      "course": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["북서쪽 기술에 신당이 있어 현재까지 당오름이라 부르고 있어요."],
+    "features": [
+      "송당 본향당에서 모시는 백주또여신에게 세 번 절하면 소원이 이루어진다는 속설이 있어요."
+    ],
+    "cautions": [],
+    "tips": [
+      "벚꽃과 동백이 어우러져 피는 곳이에요.",
+      "봄에 가시길 추천해요!",
+      "오름 전체가 울창한 숲이라 정상에서 전망을 바라보기 어렵고,",
+      "평평한 숲을 따라 한 바퀴 걷는 오름 둘레길을 추천해요."
+    ],
+    "notes": []
+  },
+  {
+    "name": "당오름(안덕)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 안덕면 동광리 1497-7 (오름입구 맞은편 좌표)",
+      "address": "서귀포시 안덕면 동광리 1497-7"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 4~5대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "예로부터 무당과 주민들이 찾아 축원을 드리는 곳이라 당오름이 되었지만 현재 당 터의 흔적은 사라졌어요."
+    ],
+    "features": [
+      "정상에 서면 형제섬, 산방산, 송악산, 마라도, 가파도, 모슬봉 등 제주 서남부 주요 경관을 시원하게 조망할 수 있어요."
+    ],
+    "cautions": [
+      "길이 잘 나있지 않아, 풀이 무성할 때는 오르기 힘들 수 있어요.",
+      "소를 방목하고 있어서 종종 소를 볼 수도 있어요.",
+      "소똥 조심!",
+      "오름입구는 사유지라 차량 출입을 막기 위해 철문으로 닫혀 있어요."
+    ],
+    "tips": [],
+    "notes": [
+      "좌표 맞은편에 \"금당목장\"으로 들어가는 길이 있어요.",
+      "철문 오른쪽에 돌담으로 지나 갈 수 있는 길이 있어요."
+    ]
+  },
+  {
+    "name": "대록산(큰사슴이오름)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 녹산로 464-65",
+      "address": "서귀포시 표선면 녹산로 464-65"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "중",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["유채꽃프라자 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름에 사슴들이 노닌다고 하여 '녹산'으로 불리다가 옆에 있는 족은사슴이오름과 구별하기 위해 큰사슴이오름이 되었어요."
+    ],
+    "features": [
+      "정상에선 한라산과 주변 오름들, 정석항공장과 가시리 일대가 한 눈에 보이고, 탐방로는 숲길과 억새밭으로 다채로워요.",
+      "높이가 높은 편이지만 탐방로가 잘 정돈되어 있어 오르기 쉬워요."
+    ],
+    "cautions": [],
+    "tips": ["가을철에 가면 억새군락이 한 눈에 보이는 것이 장관이에요!"],
+    "notes": ["유채꽃프라자 건물 뒷편에 오름 올라가는 길이 있어요."]
+  },
+  {
+    "name": "대병악",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 안덕면 상창리 산 2-3",
+      "address": "서귀포시 안덕면 상창리 산 2-3"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "중상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "보통 두 개의 오름을 합쳐 부를 때 '병악'이라고 해요. 쌍둥이처럼 두 개의 오름이 붙어있어 붙여진 이름이에요.",
+      "오름 정상 부근의 모습이 여자가 머리를 묶은 형세와 비숫하여 '여진머리오름'이라고도 불러요."
+    ],
+    "features": [
+      "한라산부터 제주 서남부 일대가 한 눈에 보이는 전망 좋은 곳이에요.",
+      "형제오름인 소병악과 붙어있어 연계해서 트레킹 할 수 있어요."
+    ],
+    "cautions": [],
+    "tips": ["오름입구에 수국이 심어져 있어 수국철에 구경하기 좋아요."],
+    "notes": []
+  },
+  {
+    "name": "대수산봉(물뫼오름)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 성산읍 고성리 1715-7",
+      "address": "서귀포시 성산읍 고성리 1715-7"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "물(못)이 있는 산으로 '물뫼'라 불렸고, 동쪽에 이웃한 족은물뫼와 구별하여 큰물뫼(대수산봉)라고 불려요."
+    ],
+    "features": [
+      "정상 전망대에서는 우도, 성산일출봉, 섭지코지 등 동쪽 바다가 가깝게 보이고, 맞은편으로는 한라산과 중산간 일대가 360도로 시원한 전망을 보여주는 곳이에요."
+    ],
+    "cautions": [],
+    "tips": [
+      "올레길 2코스로 탐방로가 잘 정비되어 있어 걷기 좋아요.",
+      "성산일출봉을 배경으로 한 일출이 황홀하게 보이는 곳이에요."
+    ],
+    "notes": []
+  },
+  {
+    "name": "도두봉(도들오름)",
+    "description": "",
+    "entrance": {
+      "main": "제주시 도두일동 1741-6",
+      "address": "제주시 도두일동 1741-6"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓으나 차가 많아 혼잡"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 형태가 바다를 중심으로 도드라진 모습을 띠고 있다 하여 '도들오름'이라 부르고, 한자로 '도두봉'이라 표기해요."
+    ],
+    "features": [
+      "공항과 가까워 이착륙하는 비행기와 한라산을 가까이 볼 수 있고, 반대편으로는 도두항과 북동쪽 제주바다까지 볼 수있어요.",
+      "접근성이 좋고 완만하여 오르기 쉬운 오름이라 인기가 많아요."
+    ],
+    "cautions": [],
+    "tips": ["두 나무가 만나 자연스럽게 생긴 키세스존 포토스팟이 포인트!"],
+    "notes": []
+  },
+  {
+    "name": "독자봉",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 성산읍 신산리 1704-1 (오름입구 근처 좌표)",
+      "address": "서귀포시 성산읍 신산리 1704-1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 3~4대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "신산리 마을에서 혼자 멀리 떨어져 있어 외로워 보인다고 독자봉이라는 이름이 붙여졌어요.",
+      "사자가 웅크린 모양과 비슷하다고 해서 사자봉이라고도 불려요."
+    ],
+    "features": [
+      "올레길 3",
+      "A코스이기도 하며, 이웃한 통오름과 함께 가기 좋아요.",
+      "저 멀리 한라산과 성산일출봉, 주변 오름들을 볼 수 있고, 오르는 길 전체가 편백, 소나무 등 숲으로 둘러싸여 있는 곳이에요."
+    ],
+    "cautions": [],
+    "tips": ["특히 분화구 안에 쉼터를 잘 마련해놔서 여유롭게 즐기기 좋아요."],
+    "notes": []
+  },
+  {
+    "name": "동검은이오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 종달리 4971 (오름입구 근처 좌표)",
+      "address": "제주시 구좌읍 종달리 4971"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["구좌읍공설묘지 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름 사면이 동그랗고 층층이 언덕으로 형성되어 사방으로 뻗어 나가는 모습이 거미와 비숫하다고 하여 붙여진 이름이에요."
+    ],
+    "features": [
+      "한라산과 다랑쉬, 아부, 용눈이, 백약이 등 동부권 오름 군락과 해안가의 풍력발전기까지 다채로운 풍경을 볼 수 있어요."
+    ],
+    "cautions": [
+      "오름 입구까지 접근성이 좋지 않고, 경사가 심하며, 비교적 난이도가 높고 힘들지만 그만큼 아름다운 뷰를 보장합니다!"
+    ],
+    "tips": ["시야가 탁 트여 있어 일출뿐만 아니라 일몰도 아름다워요."],
+    "notes": []
+  },
+  {
+    "name": "돋오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 평대리 산16",
+      "address": "제주시 구좌읍 평대리 산16"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 4~5대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'돝'은 '돼지'의 제주방언으로, 오름모양이 돼지를 닮았다고 해서 지어진 이름이에요."
+    ],
+    "features": [
+      "정상에선 다랑쉬오름을 아주 가까이 볼 수 있고, 반대편으로는 한라산과 주변 오름들을 볼수 있어요.",
+      "오르는 길에 근처에 있는 비자나무숲의 항공뷰를 볼 수 있어요."
+    ],
+    "cautions": [],
+    "tips": ["우도와 성산일출봉 사이로 뜨는 일출이 멋있는 곳이에요."],
+    "notes": []
+  },
+  {
+    "name": "두산봉(말미오름)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 성산읍 시흥리 1836",
+      "address": "서귀포시 성산읍 시흥리 1836"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 3~4대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["오름의 모습이 호랑이 머리처럼 생겨서 지어진 이름이에요."],
+    "features": [
+      "성산일출봉, 우도, 섭지코지 등 제주 동쪽 바다와 시흥리, 오조리, 종달리 등 제주 동쪽 마을과 밭 뷰를 한눈에 볼 수 있어요.",
+      "올레길 1코스로 이웃한 알오름까지 같이 가면 좋아요."
+    ],
+    "cautions": ["소를 방목하는 곳이라 탐방로에서 종종 소를 볼 수 있어요!"],
+    "tips": ["특히 일출이 바다 위로 뜨는 것을 볼 수있어 일출 명소입니다."],
+    "notes": []
+  },
+  {
+    "name": "둔지오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 한동리 산33",
+      "address": "제주시 구좌읍 한동리 산33"
+    },
+    "duration_minutes_one_way": {
+      "summit": 25
+    },
+    "difficulty": "중상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["없음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["'둔지'는 제주어로 '평지보다 조금높은 곳'을 가리키는 말이에요."],
+    "features": [
+      "한라산을 비롯해 구좌읍, 조천읍에 있는 제주 동쪽오름들과 저 멀리 바다와 함께 제주 동쪽 마을, 밭 뷰를 볼 수 있어요."
+    ],
+    "cautions": [
+      "경사가 어마어마 하지만, 그만큼 시원하고 탁 트인 뷰를 보장해요!",
+      "공동묘지로 이용되어 올라가는 길 주변에 무덤이 많이 보여요.",
+      "내려갈 땐 떨어진 솔잎들로 길이 미끄러워 특히 조심하세요."
+    ],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "따라비오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 가시리 산 63",
+      "address": "서귀포시 표선면 가시리 산 63"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15,
+      "course": 20
+    },
+    "difficulty": "중",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["할아버지를 뜻하는 '따애비'에서 '따라비'로 불리게 되었어요."],
+    "features": [
+      "다랑쉬오름과 함께 오름의여왕이라 불리는 곳으로, 3개의 분화구 6개의 봉우리로 이루어져 정상에서 보는 뷰가 다채로워요."
+    ],
+    "cautions": [],
+    "tips": [
+      "특히 가을에 오름을 뒤덮은 억새 군락이 장관이며, 한라산 쪽으로 떨어지는 노을이 정말 아름다운 곳이에요.",
+      "정상으로 바로 가는 계단길과 조금 돌아가는 둘레길이 있는데, 둘레길로 오르면서 오름의 매력을 천천히 느끼는 것을 추천합니다!"
+    ],
+    "notes": []
+  },
+  {
+    "name": "마보기(마복이)오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 안덕면 상천리 산62-2 (포도입구 호텔 맞은편)",
+      "address": "서귀포시 안덕면 상천리 산62-2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["입구에서 동쪽으로 85m가면 나오는 공터 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "마파람(남풍)이 불어온다고 '마보기', 혹은 복을 맞이한다는 의미로 '마복이'라고도 불리는 오름이에요."
+    ],
+    "features": [
+      "정상에선 마라도, 가파도, 송악산, 산방산 등 서남쪽 조망이 펼쳐지고 반대편으로는 영아리오름과 한라산이 파노라마처럼 넓게 보여요.",
+      "탐방로는 삼나무와 편백나무가 우거진 숲길을 따라 올라가고, 서영아리오름의 신비로운 행기소 습지까지 이어지는 곳이에요."
+    ],
+    "cautions": [],
+    "tips": ["가을엔 정상에 억새밭이 한 가득이라 억새 필 때가기 좋아요."],
+    "notes": []
+  },
+  {
+    "name": "매오름",
+    "description": "",
+    "entrance": {
+      "main": "1) 서귀포시 표선면 표선리 산 4-2 (서쪽입구 )",
+      "address": "1) 서귀포시 표선면 표선리 산 4-2 2) 서귀포시 표선면 표선리 2441-9"
+    },
+    "duration_minutes_one_way": {
+      "summit": 5
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["서쪽", "10대 이상", "남쪽", "5~6대 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 모습이 마치 매가 날개를 펴고 앉아있는 형태와 닮았다고 해서 이름 붙여진 오름이에요."
+    ],
+    "features": [
+      "정상에선 표선해수욕장과 성산일출봉 등 제주 동남쪽 일대를 볼 수 있고, 시원한 바다 뷰가 훤히 펼쳐지는 오름 중에 하나예요."
+    ],
+    "cautions": [],
+    "tips": [
+      "표선 주민들이 산책하러 자주 다니는 곳이라 탐방로나 코스가 잘 마련되어 있고, 정상엔 벤치도 있어 전망을 보며 쉬기 좋아요."
+    ],
+    "notes": [
+      "1) 서쪽입구: 좌표를 따라 올라가면 갈림길 왼쪽에 넓은 공터와 입구가 나와요.",
+      "올라가는 길이 외길이라 운전에 주의해야 해요."
+    ]
+  },
+  {
+    "name": "모구리오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 성산읍 서성일로 260",
+      "address": "서귀포시 성산읍 서성일로 260"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["모구리야영장 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "이웃한 작은오름(모구리알오름)을 어미개가 품고 있는 모습과 같다고 모구리오름이라 불려요."
+    ],
+    "features": [
+      "한라산과 영주산, 동검은이오름 용눈이오름, 다랑쉬오름 등 제주 동부권 오름들을 두루 볼 수 있어요."
+    ],
+    "cautions": ["모구리야영장이 바로 옆에 있어 캠핑객들이 많이 찾는 곳이에요."],
+    "tips": ["오름입구에 편백나무숲이 있어 산책하기 아주 좋아요."],
+    "notes": ["모구리야영장 내 오름산책로를 따라 올라가세요!"]
+  },
+  {
+    "name": "모슬봉",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 대정읍 일주서로 2498번길 133-46",
+      "address": "서귀포시 대정읍 일주서로 2498번길 133-46"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 근처 공터에 5~6대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'모래가 있는 포구'라는 뜻의 모슬포에 위치한 오름으로 '모슬개오름'이라고도 불려요."
+    ],
+    "features": [
+      "올레길 11코스가 지나는 곳으로 상모리 일대와 송악산, 산방산, 군산, 단산 등 제주 서남쪽 일대를 볼 수 있어요.",
+      "대정읍 모슬포 평야지대에 우뚝 솟아있는 오름이에요."
+    ],
+    "cautions": ["현재 최정상부는 군사시설로 일반인의 출입이 금지되어 있어요."],
+    "tips": [],
+    "notes": ["지도에서 '모슬봉 정상 스탬프 찍는 곳'을 찾아가세요!"]
+  },
+  {
+    "name": "문도지오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 한림읍 금악리 3432",
+      "address": "제주시 한림읍 금악리 3432"
+    },
+    "duration_minutes_one_way": {
+      "summit": 5
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구근처 공터에 5~6대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["돼지의 형상과 비슷하다고 해서 붙여진 이름이에요."],
+    "features": [
+      "한라산과 주변오름, 반대편으로는 비양도와 한림 바다 등 서남부 권역을 두루두루 넓게 조망 할 수 있는 곳이에요.",
+      "올레 14",
+      "1코스로 탁 트여 있어 일몰보기가 좋아요.",
+      "명성 목장의 말 방목지로 말을 볼 수 있는 오름이에요."
+    ],
+    "cautions": [
+      "말은 매우 예민한 동물이에요.",
+      "크게 떠들고, 사진 찍는 소리에도 스트레스를 많이 받는다고 해요.",
+      "특히 말 가까이 따라다니는 것은 뒷발에 차일 수도 있어 위험하니 주의하세요!"
+    ],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "물영아리오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 남원읍 수망리 산 182-7",
+      "address": "서귀포시 남원읍 수망리 산 182-7"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30,
+      "course": 60
+    },
+    "difficulty": "중상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'영아리'라는 말은 신령스럽다는 뜻으로 정상 분화구에 늘 물이 고여있어 '물영아리'라고 이름 붙여졌어요."
+    ],
+    "features": [
+      "2007년 람사르습지로 지정되어 보호되고 있는 오름이에요.",
+      "오름에 오르기 전에 넓은 초원에서 종종 소를 볼 수 있어요.",
+      "갈림길에서 왼쪽은 가파른 계단길, 오른쪽은 완만한 둘레길이에요."
+    ],
+    "cautions": [],
+    "tips": [
+      "탐방로가 삼나무 숲길이고 잘 정비되어 있어 걷기 좋고, 특히 비오는 날에 가도 운치 있는 곳이에요."
+    ],
+    "notes": []
+  },
+  {
+    "name": "물찾오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 가시리 산158-4 (사려니숲길 주차장 좌표)",
+      "address": "서귀포시 표선면 가시리 산158-4"
+    },
+    "duration_minutes_one_way": {
+      "summit": 40
+    },
+    "difficulty": "중상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["사려니숲길 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": ["이용시간: 1일 6회 / 회차당 20명 제한 / 1인 최대 4명 예약"]
+    },
+    "name_origin": [
+      "정상분화구에 1년 내내 마르지 않는 물이 있고, 돌이 잣과 같이 쌓여 있다고 해서 붙여진 이름이에요."
+    ],
+    "features": [
+      "사려니 숲길 안에 있는 오름으로 입구까지 삼나무 숲길이 이어져 같이 트레킹 하기 좋아요."
+    ],
+    "cautions": ["매년 \"사려니 숲 에코힐링체험 행사\" 때 한시 개방되는 오름이에요."],
+    "tips": [],
+    "notes": [
+      "개방 날짜를 참고하고, 가기 전 사전 예약이 필요해요.",
+      "문의: 사려니숲길위원회 (064",
+      "750",
+      "2291)"
+    ]
+  },
+  {
+    "name": "민오름(봉개)",
+    "description": "",
+    "entrance": {
+      "main": "제주시 봉개동 2750-2",
+      "address": "제주시 봉개동 2750-2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["사려니숲 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름에 나무가 없다는 데에서 민오름이라 불리게 되었는데, 지금은 나무들이 울창해 숲을 이루어요."
+    ],
+    "features": [
+      "정상에서 한라산 뷰를 가까이 볼 수 있고, 동쪽 오름들과 마을들도 시원하게 조망 가능해요. 벤치가 있어 여유롭게 볼 수 있어요.",
+      "오름 초입에는 목장이 있어 초원에서 뛰노는 말들을 볼 수 있어요."
+    ],
+    "cautions": ["안내판과 탐방로 잘 되어 있으나 경사가 가팔라서 주의해야 해요."],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "민오름(오라)",
+    "description": "",
+    "entrance": {
+      "main": "1) 제주시 오라이동 3208-1 (화장실 있음)",
+      "address": "1) 제주시 오라이동 3208-1 2) 제주시 오라이동 산15"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20,
+      "course": 40
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["없음 (입구근처 갓길 주차)"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["나무가 없는 민둥산이라는 뜻이지만 현재는 울창한 숲이에요."],
+    "features": [
+      "정상 전망대에 서면 제주공항과 바다, 제주시내가 한 눈에 들어오고, 반대편으로는 한라산도 볼 수 있어요.",
+      "제주시내에 위치해 화장실과 체육시설, 탐방로가 잘 정돈되어 있고, 지역 주민들이 산책로로 많이 찾는 오름이에요.",
+      "오름을 한 바퀴 도는 숲 속 둘레길도 있어 걷기 좋아요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "바농오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 조천읍 교래리 산 109",
+      "address": "제주시 조천읍 교래리 산 109"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 공터에 7~8대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'바농'은 제주어로 바늘이라는 뜻이에요. 바늘처럼 뾰족한 가시덤불이 많다고 해서 이름 붙여졌어요."
+    ],
+    "features": [
+      "정상 전망대에선 사방이 확 트여있어 한라산에서부터 저 멀리 바다까지 시원한 풍광을 볼 수 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": [
+      "1, 3코스는 오름 둘레길, 2코스는 오름 정상길이에요.",
+      "특히 3코스로 가면 대나무와 편백나무 숲길로 이어지는 넓은 들판도 만날 수 있어요."
+    ]
+  },
+  {
+    "name": "백약이오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 송당리 2298-3 (공영주차장 좌표)",
+      "address": "제주시 구좌읍 송당리 2298-3"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15,
+      "course": 20
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["100가지 약초가 많이 자생한다고 해서 붙여진 이름이에요."],
+    "features": [
+      "한라산과 분화구가 한눈에 보이고, 좌보미오름, 동검은이오름, 높은오름, 성산일출봉 등 주변 오름들을 조망할 수 있어요."
+    ],
+    "cautions": ["오름 정상 일부는 자연휴식년제로 탐방이 제한되어 있어요."],
+    "tips": [
+      "탁트인 경관으로 일출과 일몰 모두 잘 보이는 오름이에요.",
+      "오름 입구에 있는 탐방로가 포토스팟으로 유명한 곳이에요."
+    ],
+    "notes": []
+  },
+  {
+    "name": "번널오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 가시리 산10-2",
+      "address": "서귀포시 표선면 가시리 산10-2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["큰길공터에 세우고 도보 이동 추천"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["바닥이 평평하고 널빤지 같다하여 붙여진 이름이에요."],
+    "features": [
+      "정상에 서면 한라산과 제주 동쪽 오름들, 녹산로가 보여요.",
+      "병곳오름과 이웃해 함께 오르기 좋아요."
+    ],
+    "cautions": [],
+    "tips": [
+      "특히 봄에 녹산로에 유채꽃과 벚꽃이 필 때 꼭 찾아야 하는 곳이에요.",
+      "정상에 있는 나무 사이의 벤치가 포토스팟이에요!"
+    ],
+    "notes": []
+  },
+  {
+    "name": "베릿내오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 중문동 2631",
+      "address": "서귀포시 중문동 2631"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 2~3대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'베릿내'는 천제연의 깊은 골짜기 사이로 은하수처럼 물이 흐른다하여 '별이 내린 내'라고 불렀던 것이 이름 붙여졌어요."
+    ],
+    "features": [
+      "정상에서는 산방산, 박수기정, 군산(굴메오름), 서귀포 앞바다와 범섬 등을 두루두루 조망할 수 있어요.",
+      "올레길 8코스이고, 탐방로가 잘 되어 있어 산책하기 좋아요!",
+      "탐방로가 숲길로 이루어져 여러 종류의 새소리가 잘 들려요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "병곳오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 가시리 3211",
+      "address": "서귀포시 표선면 가시리 3211"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 5~6대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["오름에 병꽃이라는 꽃이 많아서 붙여진 이름이에요."],
+    "features": [
+      "날이 좋은 날에는 한라산이 선명하게 보이며, 물영아리오름, 따라비오름, 설오름, 갑선이오름 등 주변 오름들을 볼 수 있어요.",
+      "정상 군데군데 의자가있어 조용히 쉬기 좋아요."
+    ],
+    "cautions": [],
+    "tips": [
+      "번널오름과 이웃해 함께 오르기 좋고, 녹산로 옆에 있어 봄에 벚꽃과 유채꽃이 필 때 가기 좋아요!"
+    ],
+    "notes": []
+  },
+  {
+    "name": "붉은오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 가시리 산 158",
+      "address": "서귀포시 표선면 가시리 산 158"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["붉은오름자연휴양림 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": [
+        "이용시간: 매일운영",
+        "(하절기) 08:00 ~ 18:00",
+        "(동절기) 09:00 ~ 17:00",
+        "입장료: 성인 1,000원, 청소년 600원"
+      ]
+    },
+    "name_origin": ["오름을 뒤덮은 흙이 유난히 붉다고 해서 붙여진 이름이에요."],
+    "features": [
+      "정상 전망대에선 사방이 확 트여있어 한라산과 주변 풍경들을 시원하게 볼 수 있어요.",
+      "쭉쭉 뻗은 삼나무 숲길로 탐방로가 잘 정돈되어 있어 가볍게 비가 내릴 때도 걷기 좋은 곳이에요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": ["문의: 064", "782", "9171"]
+  },
+  {
+    "name": "비양봉",
+    "description": "",
+    "entrance": {
+      "main": "제주시 한림읍 협재리 2881 (오름입구 근처 좌표)",
+      "address": "제주시 한림읍 협재리 2881"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["한림항에 주차 후 배로 이동"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": ["한림항 하루 8회 운영", "입장료: 성인 12,000원, 어린이 6,000원"]
+    },
+    "name_origin": ["비양도에 있는 솟아있는 봉우리라 붙여진 이름이에요."],
+    "features": [
+      "비양봉 정상에서 보는 제주도 본섬의 모습이 새롭게 보여요",
+      "바다에서 솟은 오름으로 화산폭발로 만들어진 용암해안, 화산탄, 용암굴뚝까지 그대로 남아있어 지질여행으로도 좋아요."
+    ],
+    "cautions": ["한림항에서 약 15분 정도 배를 타고 들어가야 해요. (신분증 필수!)"],
+    "tips": [],
+    "notes": ["문의: 064", "796", "7522"]
+  },
+  {
+    "name": "사라봉, 별도봉",
+    "description": "",
+    "entrance": {
+      "main": "1) 제주시 건입동 396-1 (사라봉 임도길)",
+      "address": "1) 제주시 건입동 396-1 2) 제주시 건입동 768-2 3) 제주시 화북일동 4595"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["사라봉공원 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'사라'는 신성한 산이나 지역 또는 불교적인 의미로 깨달음'을 의미하는데, 불교적인 영향을 받아 붙여진 이름이에요."
+    ],
+    "features": [
+      "제주항과 제주 시내를 한눈에 담을 수 있고, 일몰명소로 꼽혀요.",
+      "올레 18코스로 사라봉과 별도봉이 붙어있어 함께 오르기 좋아요.",
+      "탐방로가 잘 마련되어 있어 제주도민들이 사랑하는 오름이에요."
+    ],
+    "cautions": [],
+    "tips": ["봄에는 유채꽃과 벚꽃, 철쭉이 만개하여 꽃동산을 만들어요."],
+    "notes": []
+  },
+  {
+    "name": "사라오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 조천읍 516로 1865 (성판악 탐방안내소)",
+      "address": "제주시 조천읍 516로 1865"
+    },
+    "duration_minutes_one_way": {
+      "summit": 180
+    },
+    "difficulty": "최상",
+    "seasons": ["겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["성판악 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'사라'는 신성한 산이나 지역 또는 불교적인 의미로 '깨달음' 의미하는데 불교적인 영향을 받아 붙여진 이름이에요."
+    ],
+    "features": [
+      "분화구 안에 있는 큰 산정호수가 아주 유명해요.",
+      "비 온 다음 날에는 분화구 안에 물이 차서 신기한 풍경을 자아내요."
+    ],
+    "cautions": ["한라산 성판악 코스의 일부로 사전예약을 해야 갈 수 있어요."],
+    "tips": ["특히 겨울에 보는 설경이 아주 매력적인 곳이에요!"],
+    "notes": []
+  },
+  {
+    "name": "산굼부리",
+    "description": "",
+    "entrance": {
+      "main": "제주시 조천읍 래리 165-1",
+      "address": "제주시 조천읍 래리 165-1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "하",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": [
+        "이용시간:",
+        "(3~6월, 9~10월) 09:00 ~ 18:00",
+        "(7~8월, 11~2월 ) 09:00 ~ 17:00",
+        "입장료: 성인 7,000원, 청소년/어린이 6,000원"
+      ]
+    },
+    "name_origin": ["산굼부리는 산에 생긴 구멍(굼)이라는 뜻이에요."],
+    "features": [
+      "분화구의 깊이가 130m로 한라산의 백록담보다 넓고 깊다고 해요.",
+      "전망대에서 한라산과 주변 오름 군락, 깊은 분화구를 볼 수 있어요."
+    ],
+    "cautions": [],
+    "tips": ["가을에는 탐방로를 따라 억새밭이 드넓게 펼쳐져 있어요."],
+    "notes": ["문의: 064", "783", "9900"]
+  },
+  {
+    "name": "산방산",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 안덕면 사계리 163-1 (공영주차장 좌표)",
+      "address": "서귀포시 안덕면 사계리 163-1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": ["이용시간: 매일 09:00~18:00", "입장료: 성인 1,000원, 청소년 500원"]
+    },
+    "name_origin": ["'산방'은 '굴이 있는 산'이라는 뜻으로 자연석굴이 있어요."],
+    "features": [
+      "굴안에 부처를 모시는 '산방굴사'라는 절이 있어요.",
+      "용머리해안과 송악산, 형제섬, 사계바다의 풍광을 볼 수 있어요."
+    ],
+    "cautions": ["종 모양의 화산체로 길이 험해 정상은 오를 수 없어요."],
+    "tips": ["특히 봄에는 주변에 유채꽃이 만발해 올라서서 보면 예뻐요."],
+    "notes": ["문의: 064", "794", "2940"]
+  },
+  {
+    "name": "삼매봉",
+    "description": "",
+    "entrance": {
+      "main": "1) 서귀포시 서홍동 780-1 (외돌개 주차장 방면",
+      "address": "1) 서귀포시 서홍동 780-1 (외돌개 주차장 방면"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["외돌개 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["3개의 매화 같은 봉우리가 있어 삼매봉이라고 불러요."],
+    "features": [
+      "정상 전망대에선 한라산이 정말 가까이 보여서 한 폭의 그림 같아요.",
+      "올레길 7코스로 서귀포 바다 일대와 범섬을 조망할 수 있어요.",
+      "오름 둘레길이 숲으로 우거져 있고, 탐방로도 넓고 완만한 편이라 누구나 가볍게 오를 수 있어요.",
+      "외돌개 및 황우지해안과 연계하여 가기 좋아요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "새별오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 봉성리 4554-12",
+      "address": "제주시 애월읍 봉성리 4554-12"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["'초저녁에 외롭게 떠 있는 샛별 같다'고 해서 붙여진 이름이에요."],
+    "features": [
+      "한라산과 바리메오름, 누운오름, 당오름 , 금오름 등 서부권 오름 군락과 한림 앞바다와 비양도까지 볼 수 있어요.",
+      "정상까지 가는 방법은 2코스가 있는데, 왼쪽은 짧지만 경사가 매우 가파르고, 오른쪽은 비교적 완만하나 돌아서 올라가요."
+    ],
+    "cautions": [],
+    "tips": ["가을에 억새로 뒤덮이고, 일몰이 아름다운 오름으로 유명해요!"],
+    "notes": ["매년 3월, 액운을 막고 풍요와 건강을 기원하는 들불축제를 열어요."]
+  },
+  {
+    "name": "서우봉",
+    "description": "",
+    "entrance": {
+      "main": "제주시 조천읍 함덕리 산1",
+      "address": "제주시 조천읍 함덕리 산1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["함덕해수욕장 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["바다 위에 놓인 오름이 물소를 닮았다는 데서 유래한 이름이에요."],
+    "features": [
+      "올레길 19코스로 함덕해수욕장 옆에 붙어 있어 접근성이 좋아요.",
+      "노을 질 때 아름다운 함덕 바다에 비친 붉은 노을을 볼 수 있어요.",
+      "망오름 정상에서는 반대편 북촌 바다와 마을이 내려다보이고 일출도 잘 보이는 곳이라 해마다 서우봉 일출제가 열려요.",
+      "일제강점기에 일본군이 사용한 진지동굴과 4.3유적지가 있어요."
+    ],
+    "cautions": [],
+    "tips": ["봄에는 유채꽃, 여름에는 해바라기꽃을 볼수 있는 오름이에요."],
+    "notes": []
+  },
+  {
+    "name": "섯알오름, 동알오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 대정읍 상모리 1590-3",
+      "address": "서귀포시 대정읍 상모리 1590-3"
+    },
+    "duration_minutes_one_way": {
+      "summit": 60
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["섯알오름 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "송악산 북쪽으로 나 있는 세 개의 알오름 중 동쪽에 있다 하여 동알오름, 서쪽에 있다 하여 섯알오름이 되었어요."
+    ],
+    "features": [
+      "4.3사건 당시 학살 터가 남아있는 비극의 장소이기도 해서 다크투어리즘으로 살펴볼 가치가 있는 곳이에요.",
+      "올레길 10코스로 동알오름",
+      "셋알오름",
+      "섯알오름까지 이어지는 능선길에서 한라산과 송악산, 사계바다 등 제주 서남부 풍광이 한 폭의 그림처럼 펼쳐져요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "성산일출봉",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 성산읍 일출로 284-6",
+      "address": "서귀포시 성산읍 일출로 284-6"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": [
+        "이용시간:",
+        "(1, 2, 11, 12월) 06:00~18:00",
+        "(3, 4, 9, 10월) 05:00~19:00",
+        "(5~8월) 04:30~20:00",
+        "입장료: 성인 5,000원, 청소년/어린이 2,500원"
+      ]
+    },
+    "name_origin": [
+      "오름의 모습이 성과 비숫하다 하여 '성산'이라 하고, 특히 일출이 아름다워 '성산일출봉'이 되었어요. 제주1경 다운 멋진 모습!"
+    ],
+    "features": [
+      "정상에 서면 아주 큰 분화구와 주변의 99개 기암이 절경이에요.",
+      "우도, 섭지코지를 비롯해 성산읍 전체를 한눈에 담을 수 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": ["매월 첫째 월요일 휴무 외 매일 운영", "문의: 064", "783", "0959"]
+  },
+  {
+    "name": "세미양오름(삼의악)",
+    "description": "",
+    "entrance": {
+      "main": "제주시 아라일동 6-59",
+      "address": "제주시 아라일동 6-59"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 5~6대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 전체적인 형상이 조선시대에 벼슬아치들이 쓰던 모자 '사모'와 닮아 '사모악라고도 불려요."
+    ],
+    "features": [
+      "제주시내에 위치한 오름으로 한라산에서부터 해안가까지 보이는 모두 보이는 오름이에요. 특히 한라산이 가까이 보여요!"
+    ],
+    "cautions": [
+      "오르는 길이 꽤 가파른 편이나, 소나무와 삼나무, 편백나무까지 조화롭게 숲길을 이루고 있어 트레킹 하기 좋아요."
+    ],
+    "tips": [],
+    "notes": ["예부터 명당으로 알려져 오름 기슭에 많은 묘가 있어요."]
+  },
+  {
+    "name": "소록산(족은사슴이오름)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 가시리 산 87-18",
+      "address": "서귀포시 표선면 가시리 산 87-18"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["없음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "남북으로 길게 누워있는 모양이 사슴을 닮았다고 하여 사슴이 오름이라 부르고, 이웃한 큰사슴이오름과 구분하기 위해 족은사슴이오름이라 불러요."
+    ],
+    "features": [
+      "오름 입구에서 정상까지 조용하고 한적한 오솔길이 이어져요.",
+      "정상에서 한라산과 정석비행장을 선명하게 볼 수 있어요."
+    ],
+    "cautions": ["사람이 잘 다니지 않아 풀이 무성한 계절엔 오르기 힘들 수 있어요."],
+    "tips": [],
+    "notes": [
+      "정석비행장 맞은편 길을 따라 약 500m가면 갈림길이 나와요.",
+      "우측으로 가면 초록색 철문이 나와요. 철문 옆길로 들어가면 돼요."
+    ]
+  },
+  {
+    "name": "솔오름(쌀오름)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 동홍동 2142-7",
+      "address": "서귀포시 동홍동 2142-7"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "쌀을 쌓아놓은 모양 같다고 하여 이름 붙여졌어요.",
+      "살은 제주어로 '솔'이라 하며, 사람의 살결처럼 매끄럽게 생겼다 해서 솔오름이라고도 불려요."
+    ],
+    "features": [
+      "서귀포 바다와 3형제섬(섶섬, 문섬, 범섬)을 한눈에 담을 수 있고 한라산도 가깝게 조망할 할 수 있어요.",
+      "탐방로가 잘 정돈되어 있고 서귀포 시내와 가까이 있어 주민들이 많이 찾는 곳이에요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "송악산(절율이오름)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 대정읍 상모리 163-4",
+      "address": "서귀포시 대정읍 상모리 163-4"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20,
+      "course": 60
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "소나무가 많아서 '송악', 파도가 산허리 절벽에 부딪혀 크게 울린다는 뜻으로 '절울이'라는 이름을 가지고 있는 오름이에요."
+    ],
+    "features": [
+      "올레길 10코스로 우리나라 최남단인 마라도, 가파도, 한라산, 산방산, 형제섬, 짙고 푸른 사계 바다까지 모두 볼 수 있는 곳이에요.",
+      "송악산은 1차 폭발로 형성된 분화구 안에서 2차 폭발이 일어나 세계적으로도 드문 이중분화구를 가진 오름이에요.",
+      "송악산 해안가 절벽에 제주도민들을 강제 동원해 뚫어놓은 진지동굴들을 통해 당시 그 고통과 참상을 느낄 수 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "수산봉(물메오름)",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 수산리 산5 (수산저수지 쪽 입구)",
+      "address": "제주시 애월읍 수산리 산5"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구근처 넓은 공터에 주차 추천"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "옛날에 물이 고인 연못이 있어 물메오름이라고 불렸어요.",
+      "오름 정상에 봉수대가 있어 수산봉이라고도 해요."
+    ],
+    "features": [
+      "올레길 16코스이기도 하며, 곰솔(400년 된 보호수)과 수산저수지를 지나서 정상에 오를 수 있어요."
+    ],
+    "cautions": ["정상뷰는 없음"],
+    "tips": [
+      "오름 중턱에 있는 큰 나무에 매달린 그네가 포토스팟이에요.",
+      "그네에 타면 한라산과 수산저수지를 한눈에 볼 수 있어요."
+    ],
+    "notes": []
+  },
+  {
+    "name": "수월봉",
+    "description": "",
+    "entrance": {
+      "main": "제주시 한경면 고산리 3696-1",
+      "address": "제주시 한경면 고산리 3696-1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["수월봉 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "옛 고산리에 '수월'이라는 누나와 '녹고'라는 동생이 아픈 어머니를 위해 약초를 캐다 누나가 절벽에서 떨어져 죽어 이름 붙여졌대요."
+    ],
+    "features": [
+      "수월봉 전망대에서는 차귀도와 당산봉, 넓고 짙푸른 서쪽 바다를 내다볼 수 있고, 노을 명소로도 아주 유명해요."
+    ],
+    "cautions": [],
+    "tips": [
+      "올레길 12코스에 속하며, 세계적인 화산연구의 교과서이기도 해서 해안절벽을 따라 지질여행을 할 수 있어요."
+    ],
+    "notes": [
+      "사전 예약 시 지질공원 해설사의 해설을 들으며 감상할 수 있어요.",
+      "(문의: 064",
+      "772",
+      "3334)"
+    ]
+  },
+  {
+    "name": "식산봉",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 성산읍 오조리 312",
+      "address": "서귀포시 성산읍 오조리 312"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["1) 성산읍 오조리 711", "1 (화장실 있음)", "2) 오조포구 근처 공터"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "마치 군량미를 쌓아둔 것처럼 생겨 왜적들이 보기에 병사가 많을 것이라 짐작해 함부로 넘보지 않아 붙여진 이름이래요."
+    ],
+    "features": [
+      "정상에선 성산일출봉과 우도, 오조포구와 마을 풍광을 볼 수 있어요.",
+      "올레 2코스가 지나는 길로 오조포구를 따라 걷는 길이 예뻐요."
+    ],
+    "cautions": [],
+    "tips": ["탐방로 중간에 나무 사이로 보이는 성산일출봉이 포토스팟!"],
+    "notes": []
+  },
+  {
+    "name": "아끈다랑쉬오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 세화리 2702",
+      "address": "제주시 구좌읍 세화리 2702"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["다랑쉬오름 주차장 이용 (구좌읍 세화리 2705)"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'아끈'은 제주어로 '작은'을 의미하며, 옆에 있는 다랑쉬오름에 비해 '작은다랑쉬오름'이라는 뜻이에요."
+    ],
+    "features": ["제주 동부권 오름들과 한라산, 멀리 성산일출봉까지 보여요."],
+    "cautions": [
+      "난이도가 높진 않으나 탐방로가 잘 정돈되어 있지 않아 많이 미끄러울 수 있어요. 편한 운동화 필수!",
+      "여름 풀이 무성할 때는 오르기 어려움)"
+    ],
+    "tips": ["가을에는 오름 전체가 억새로 뒤덮이는 장관을 볼 수 있어요."],
+    "notes": []
+  },
+  {
+    "name": "아부오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 송당리 산 175-2",
+      "address": "제주시 구좌읍 송당리 산 175-2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 5,
+      "course": 20
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "본래 송당마을과 당오름 앞에 있는 오름이라 '앞오름'이라고 불리다가 한자식 표기를 위해 아부오름이라고 불리고 있어요."
+    ],
+    "features": [
+      "삼나무가 옹기종기 심어진 넓고 깊은 분화구를 볼 수 있고, 이를 따라 정상한 바퀴를 돌 수 있어요.",
+      "탐방로가 잘 되어 있고, 낮고 쉬워 누구나 가볍게 오르기 좋아요."
+    ],
+    "cautions": [],
+    "tips": ["제주 동쪽에서 일몰 보기 가장 좋은 오름이에요."],
+    "notes": []
+  },
+  {
+    "name": "안돌오름, 밧돌오름",
+    "description": "",
+    "entrance": {
+      "main": "1)안돌오름: 구좌읍송당리 산150 (비밀의숲에서 약 330m)",
+      "address": "1)안돌오름: 구좌읍송당리 산150 2) 밧돌오름:구좌읍 송당리 2015-2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["없음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "조선시대에 두 오름사이로 돌담(경계)이 있었는데, 돌담 안에 있다 해서 안돌오름, 돌담 밧(밖)에 있어 밧돌오름이 되었어요."
+    ],
+    "features": [
+      "한라산과 제주동쪽 오름군락, 송당마을 일대와 밭뷰, 방풍림 등 아주 멋진 풍광들을 한 눈에 담을 수 있어요."
+    ],
+    "cautions": [
+      "오름입구까지 좁은 외길에 비포장도로라 접근성이 좋지 않고, 탐방로는 있으나 풀이 무성한 계절에는 오르기 힘들 수 있어요. 하지만 아는 사람만 아는 정말 뷰가 멋있는 오름이에요."
+    ],
+    "tips": ["한라산 방면으로 떨어지는 노을이 아주 아름다운 곳이에요!"],
+    "notes": []
+  },
+  {
+    "name": "안세미오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 봉개동 산2",
+      "address": "제주시 봉개동 산2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구앞3~4대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "밧세미오름과 형제오름으로 샘의 안쪽에 있다고해서 안세미오름이라고 불려요. 실제로 입구 앞에 샘이 있어요!"
+    ],
+    "features": [
+      "정상에 서면 한라산과 주변 오름들의 모습이 넓게 펼쳐져요.",
+      "중간중간 평상도 많아 쉬기도 좋고, 다채로운 매력의 오름이에요."
+    ],
+    "cautions": [],
+    "tips": [
+      "오름 초입에 쭉쭉 뻗은 편백나무가 이어져 숲길이 아름다운 오름중하나예요. 피톤치드 충전 필요 할 때 추천해요!"
+    ],
+    "notes": []
+  },
+  {
+    "name": "어승생악",
+    "description": "",
+    "entrance": {
+      "main": "제주시 해안동 1100로 2070-61",
+      "address": "제주시 해안동 1100로 2070-61"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["어리목휴게소 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'어승생'이란 '임금님에게 바치는 말이 태어났다'는 의미로 조선시대에 가장 뛰어난 명마가 탄생하여 지어진 이름이에요."
+    ],
+    "features": [
+      "한라산 국립공원에 속해 있는 오름으로 탐방로가 잘 되어 있고, 제주 시내부터 해안가까지 전체적으로 조망할 수 있어요.",
+      "한라산을 가까이 볼 수 있는 오름으로 전망대에 서면 한라산의 웅장하고 장엄한 모습을 가깝게 볼 수 있어요."
+    ],
+    "cautions": [],
+    "tips": ["특히 겨울철 설경이 아름다운 곳이에요. 아이젠 필수!"],
+    "notes": []
+  },
+  {
+    "name": "영아리오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 안덕면 산록남로 687 (안덕위생매립장 좌표)",
+      "address": "서귀포시 안덕면 산록남로 687"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["안덕위생매립장 가기 바로 전 공터에 주차"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'영아리'는 신령스럽다는 뜻으로, 오름 중턱에 물이 고인 습지를 품고있어 물영아리라고도 불려요. 물의 수호신이 산다네요!"
+    ],
+    "features": [
+      "한라산과 서부권의 오름군락, 가파도, 마라도, 송악산, 산방산 등 서귀포 풍경까지도 한 눈에 볼 수 있어요.",
+      "행기소라고 불리는 오름 중간의 습지는 신비로운 모습을 자아내요."
+    ],
+    "cautions": [
+      "오름 입구까지 가는 길이 길지만, 삼나무 숲길로 되어있어 트레킹하기 좋아요. 한라산 둘레길로도 유명해요!"
+    ],
+    "tips": [],
+    "notes": ["좌표 가기 바로 전 우측에 숲길 입구 및 안내판 있음, 약 50m거리"]
+  },
+  {
+    "name": "영주산",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 성읍리 산 18-1",
+      "address": "서귀포시 표선면 성읍리 산 18-1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["영주산은 신선이 살아 신령스럽다는 의미의 오름이에요."],
+    "features": [
+      "정상에서는 한라산과 주변 오름들, 성읍저수지가 내려다 보이며 오름중턱에서는 풍력발전단지와 성읍마을을 볼 수 있어요."
+    ],
+    "cautions": ["소를 방목하는 오름이라 종종 소를 구경 할 수 있어요.", "소똥조심!"],
+    "tips": [
+      "특히 6월에는 오름 중간에 있는 천국의 계단 사이로 산수국이 만발하여 꽃길이 만들어져요.",
+      "일출이 아름다운 오름으로 매년 일출행사가 열리기도 해요."
+    ],
+    "notes": []
+  },
+  {
+    "name": "왕이메오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 한림읍 금악리 산32-6 (도로 중간에 오름 입구 있음)",
+      "address": "제주시 한림읍 금악리 산32-6"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["없음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "탐라국 삼신왕이 사흘 동안 이 오름에 와서 기도를 드렸다고 해서 왕이메오름이 되었어요."
+    ],
+    "features": ["탐방로는 쭉쭉 뻗은 삼나무 숲길로 되어있어 걷기 좋아요!"],
+    "cautions": [
+      "정상에선 멀리 한라산도 보이지만, 나무에 가려 시야가 좋지 않아요.",
+      "사유지라 오름 소유주가 오후 5시 이후 입산을 제한하고 있어요."
+    ],
+    "tips": [
+      "분화구 안에 들어갈 수 있는 몇 안 되는 오름으로 웅장하고, 신비로운 모습을 자아내요. 여기서 듣는 새소리가 완전 힐링!"
+    ],
+    "notes": []
+  },
+  {
+    "name": "용눈이오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 종달리 4650",
+      "address": "제주시 구좌읍 종달리 4650"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20,
+      "course": 20
+    },
+    "difficulty": "하",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "산의 한 가운데가 크게 패어있는 모습이 용이 누워있던 모양과 비슷해서 붙여진 이름이에요."
+    ],
+    "features": [
+      "오름 능선을 따라 한 바퀴 걸으면서 한라산에서 부터 성산일출봉, 다랑쉬오름, 높은오름 등 동부권 오름들과 마을까지 볼 수 있어요."
+    ],
+    "cautions": [
+      "말이 방목되어 있어 종종 말을 볼 수 있는 오름이에요.",
+      "훼손이 심해휴식도 가졌던 곳이라 정해진 탐방로로만 다녀주세요!"
+    ],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "우도봉",
+    "description": "",
+    "entrance": {
+      "main": "1) 제주시 우도면 연평리 343-1 (천진항 방면)",
+      "address": "1) 제주시 우도면 연평리 343-1 2) 제주시 우도면 연평리 329-6"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["천진항 방면", "넓음", "검멀레 방면", "없음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": [
+        "천진항 하루 12회 운영",
+        "입장료: 성인 왕복 10,500원 청소년 10,100원 어린이 3,000~3,800원"
+      ]
+    },
+    "name_origin": [
+      "우도는 소가 머리를 내밀고 누워있다고 해서 이름 붙여졌는데, 그중 머리에 해당하는 우도봉은 '쇠머리오름'이라고도 불려요."
+    ],
+    "features": [
+      "우도에서 바라보는 제주도 본섬의 모습,한라산, 성산일출봉 등 푸른 바다와 함께 새로운 풍경을 볼수 있어요.",
+      "사자바위, 바람의 언덕, 우도등대공원 등 볼거리가 다채로워요."
+    ],
+    "cautions": ["우도봉은 성산항에서 배를 타고 들어가야 해요. (신분증 필수!)"],
+    "tips": [],
+    "notes": ["문의: 064", "782", "5671"]
+  },
+  {
+    "name": "우보오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 색달동 914",
+      "address": "서귀포시 색달동 914"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["없음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["오름의 모습이 소가 엎드린 모습과 비슷해서 우보오름이에요."],
+    "features": [
+      "산불초소 쪽으로 가면 서귀포에서 바라 본 한라산과 주변 오름들, 반대편으로는중문지역 바다와 산방산 일대가 시원하게 보여요."
+    ],
+    "cautions": ["맞은 편은 사유지라 탐방로가 제한되어 있어요."],
+    "tips": [
+      "오름 초입은 편백나무와 밤나무가 어우러진 숲길이 있고, 정상부 능선길은 드넓게 펼쳐진 초지가 있어 걷기 좋아요."
+    ],
+    "notes": [
+      "오름 가는 길이 매우 협소해요. 위 좌표로 가기 전공터에 주차하고",
+      "걸어가는 것을 추천드려요. 숲길 중간에 올라가는 계단이 있어요."
+    ]
+  },
+  {
+    "name": "우진제비오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 조천읍 선흘리 1788-5",
+      "address": "제주시 조천읍 선흘리 1788-5"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 2~3대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 모습이 소가 누워있는 형상과 제비가 날아가는 모양과 비슷하다고 해서 붙여진 이름이에요."
+    ],
+    "features": [
+      "정상 전망대에서는 한라산과 제주 동부권 오름들을 볼 수 있으나 전망이 나무에 가려 탁 트인 풍경은 아니에요.",
+      "오름 중턱에 '우진샘'이라는 신비로운 느낌의 샘물이 있어요.",
+      "탐방로는 삼나무 숲과 가파른 돌 계단으로 이루어져 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": ["입구까지 비포장 외길이라 운전에 주의해야 해요."]
+  },
+  {
+    "name": "원당봉",
+    "description": "",
+    "entrance": {
+      "main": "제주시 원당로 16길 16-30 (문강사 좌표)",
+      "address": "제주시 원당로 16길 16-30"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["문강사 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["원나라의 당인 원당이 있었다고 해서 붙여진 이름이에요."],
+    "features": [
+      "정상에선 나무가 일부 시야를 가리지만 둘레길 전망대에선 삼양해수욕장과 제주시내를 볼 수 있어요.",
+      "세개의 사찰과 일곱 개의 봉우리를 품고 있는 곳이에요."
+    ],
+    "cautions": [],
+    "tips": ["일출이나 일몰도 잘 보이고, 시내에서 산책하기 좋은 오름이에요."],
+    "notes": []
+  },
+  {
+    "name": "원물오름(원수악)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 안덕면 동광리 381-7",
+      "address": "서귀포시 안덕면 동광리 381-7"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["안덕숭혼묘지 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름 입구에 샘(원물)이 있는데 조선시대 원님이 이 곳에서 물을 마셨다고 해서 붙여진 이름이에요."
+    ],
+    "features": [
+      "전망이 확 트여있어 한라산, 산방산, 송악산 등 제주 서남부 풍광들을 한눈에 담을 수 있어요.",
+      "감낭오름이 붙어있어 연계해서 걷기 좋아요."
+    ],
+    "cautions": [
+      "말 방목지라서 말을 종종 볼 수 있어요. 말똥 조심!",
+      "탐방로가 잘 나있지 않아 길을 잃지 않도록 주의해야 해요."
+    ],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "월라봉",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 안덕면 감산리 1815",
+      "address": "서귀포시 안덕면 감산리 1815"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["서귀포시 안덕면 감산리 1903"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["'달이 떠오르는 오름'이라는 뜻에서 월라봉(다래오름)이에요."],
+    "features": [
+      "정상 전망대에서는 산방산과 화순 앞 바다, 화순항 일대가 보이고, 산방산 쪽으로 떨어지는 노을도 볼 수 있는 곳이에요.",
+      "일곱개의 일제 진지동굴이 아픈 역사의 흔적을 보여주는 곳이에요.",
+      "곳곳에 전망대와 산책로가 정비되어 있어 걷기 좋아요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": ["넓지만 오름입구와 약 1km정도 거리가 있어요."]
+  },
+  {
+    "name": "윗세오름",
+    "description": "",
+    "entrance": {
+      "main": "1) 영실코스: 영실로 226 ('한라산 영실지소' 검색)",
+      "address": "1) 영실코스: 영실로 226 2) 어리목코스: 해안동 산 220-13"
+    },
+    "duration_minutes_one_way": {
+      "summit": 120
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": [
+        "각 코스 주차장이 있으나 협소하여 일찍 가시거나,",
+        "대중교통을 이용하는 것을 추천드려요."
+      ]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "위에 있는 세 오름이라는 뜻으로 한라산 백록담 남쪽에 자리한 세오름을 함께 부르는 명칭이에요.",
+      "(웃세붉은오름, 웃세누운오름, 웃세족은오름)"
+    ],
+    "features": [
+      "윗세오름 코스는 2개 코스로 어리목과 영실코스가 있어요.",
+      "백록담 측면을 볼 수 있고, 가볍게 한라산을 즐기기에 좋아요."
+    ],
+    "cautions": [],
+    "tips": ["가을에는 단풍이, 겨울에 설경이 절경으로 아주 추천합니다!"],
+    "notes": []
+  },
+  {
+    "name": "이달오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 봉성리 214",
+      "address": "제주시 애월읍 봉성리 214"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞에 3~4대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["두 개의 봉우리가 가파르게 솟아 있어서 붙여진 오름이에요."],
+    "features": ["유명한 새별오름의 뒷모습을 한적하게 볼 수 있어요."],
+    "cautions": [
+      "정상에서는 나무에 가려 시야가 좋지 않지만, 탐방로를 한 바퀴 돌며 보는 새별오름과 초원 뷰가 더 멋있는 오름이에요.",
+      "말을 방목하는 곳이라 종종 말을 볼 수 있어요."
+    ],
+    "tips": [],
+    "notes": ["도로에서 다리 주변 오름입구로 진입하는 포장길이 있어요."]
+  },
+  {
+    "name": "이승이오름(이승악)",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 남원읍 신례리 산7",
+      "address": "서귀포시 남원읍 신례리 산7"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 10대 내외 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["살쾡이를 닮았다고 하여 한자로 '이승악'이라 불러요."],
+    "features": [
+      "오름과 이어진 한라산둘레길에 삼나무 숲, 해그므니소, 숯가마터 등 다양한 볼거리가 있는 것이 매력적이에요.",
+      "오름 입구까지 가는 길은 신례리 공동목장이 있어 한라산을 배경으로 여유롭게 거니는 소떼들을 구경하기 좋아요."
+    ],
+    "cautions": ["정상은 나무에 많이 가려져 있어 시원한 뷰를 보기 어려워요."],
+    "tips": ["특히 봄에는 벚꽃길이 만들어지는 아름다운 벚꽃명소랍니다."],
+    "notes": ["신례천생태탐방로종합안내소'를 검색하면 바로 갈 수 있어요."]
+  },
+  {
+    "name": "자배봉",
+    "description": "",
+    "entrance": {
+      "main": "1) 서귀포시 남원읍 중산간동로 6658 (유아숲체험원 방향)",
+      "address": "1) 서귀포시 남원읍 중산간동로 6658 2) 서귀포시 남원읍 위미리 산134-4"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15,
+      "course": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["1번입구", "유아숲체험원 주차장 이용", "2번입구", "입구 앞 4~5대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "자배낭, 재밤낭(구실잣밤나무, 메밀잣밤나무의 제주어)의 열매가 특히 이 오름에 많아 연유한 이름이라고 해요."
+    ],
+    "features": ["오름 정상 둘레길에 흔히 보기 어려운 고인돌이 있어요."],
+    "cautions": [
+      "정상에서는 전망이 나무에 가려 시원하지 않지만, 중턱에서는 바다와 서귀포 남쪽 일대가 잘 보이고, 숲길이 잘 정비되어 걷기 좋아요."
+    ],
+    "tips": [
+      "오름 올라 가는 길이 벚나무로 가득하고, 주변 둘레길도 벚꽃터널이 이어져 있어 봄에 가는 것을 추천해요."
+    ],
+    "notes": []
+  },
+  {
+    "name": "저지오름(닥모루오름)",
+    "description": "",
+    "entrance": {
+      "main": "1) 제주시 한경면 저지리 산 52 (주차장",
+      "address": "1) 제주시 한경면 저지리 산 52 (주차장"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["1번코스 입구 앞 6~7대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "과거에 닥나무가 많아 '닥모루오름'이라고 불렸고, 마을 이름이 저지리가 되면서 '저지오름'이 되었어요."
+    ],
+    "features": [
+      "전망대에 서면 한라산에서부터 수월봉, 한림비양도, 산방산 등 360도 전망이 시원하게 펼쳐져요.",
+      "올레길 13코스로 원래는 민둥오름이었으나, 주민들의 정성으로 숲 길이 아름다운 오름이 되었어요.",
+      "오름둘레길이 나있어 걷기 좋고, 크기가 웅장한 분화구도 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "절물오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 봉개동산 78-1",
+      "address": "제주시 봉개동산 78-1"
+    },
+    "duration_minutes_one_way": {
+      "summit": 40
+    },
+    "difficulty": "중",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["절물자연휴양림 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": [
+        "이용시간: 매일 07:00~18:00",
+        "입장료: 성인 1,000원, 청소년 600원, 어린이 300원"
+      ]
+    },
+    "name_origin": ["절물오름은 절(약수암) 옆에 물이 있다해서 붙여진 이름이에요."],
+    "features": [
+      "오름까지 가는 탐방로가 쭉쭉 뻗은 삼나무숲길과 나무데크로 잘되어 있어 가볍게 비 올 때도 추천해요.",
+      "정상에는 2개의 전망대가 있는데, 제1전망대에서는 원형분화구 안을 볼 수 있고, 2전망대에서는 이웃 오름들을 조망할 수 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": ["문의: 064", "728", "1510"]
+  },
+  {
+    "name": "정물오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 한림읍 금악리 133 (길따라 들어가면 오름입구 있음)",
+      "address": "제주시 한림읍 금악리 133"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "중하",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 5~6대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["오름 주변에 '정물'이라는 샘이 있어서 붙여진 이름이에요."],
+    "features": [
+      "성이시돌 목장, 금오름, 당오름과 멀리 한라산까지 볼 수 있어요.",
+      "입구에서 갈림길이 나오는데, 왼쪽은 비교적 완만한 능선길이고, 오른쪽은 살짝 가파른 계단길이에요. 오른쪽으로 올랐다가 왼쪽으로 내려오길 추천드려요!"
+    ],
+    "cautions": [],
+    "tips": [
+      "가을에는 억새가 만드는 금빛 물결을 볼 수 있어요.",
+      "일몰시간에는 금오름으로 떨어지는 노을을 보기 좋아요."
+    ],
+    "notes": []
+  },
+  {
+    "name": "제지기오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 보목포로 73",
+      "address": "서귀포시 보목포로 73"
+    },
+    "duration_minutes_one_way": {
+      "summit": 15
+    },
+    "difficulty": "중하",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 4~5대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["옛날에 절과 그 절을 지키는 절지기가 있어서 붙여진 이름이에요."],
+    "features": [
+      "바다 가까이 있어 서귀포 앞바다와 마주 보고 있는 섶섬과 문섬, 보목마을의 아기자기한 풍광을 볼 수 있어요.",
+      "올레길 6코스가 지나는 곳이며, 경사가 조금 가파르지만 목재계단으로 탐방로가 잘 마련되어 있어서 오르기 쉬워요.",
+      "마을 사람들의 뒷동산이라 운동기구, 벤치, 평상 등이 정비되어 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "족은노꼬메오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 유수암리 산 28",
+      "address": "제주시 애월읍 유수암리 산 28"
+    },
+    "duration_minutes_one_way": {
+      "summit": 40
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'노꼬메'는 '녹고모'를 발음대로 쓴 것이며, 높은 산 또는 사슴이 사는 산이라는 뜻이에요.",
+      "이웃한 큰노꼬메오름과 구분해 족은노꼬메오름이라고 불러요."
+    ],
+    "features": ["오름 초입은 울창한 삼나무숲길로 이뤄져 있어 걷기 좋아요."],
+    "cautions": [
+      "한라산과 어승생악, 산세미오름 등 주변 오름들을 볼 수 있으나, 나무가 우거져 전망이 아쉬울 수 있어요.",
+      "이름과 달리 몸집이 큰 오름이라 난이도가 꽤 있는 편이에요."
+    ],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "족은바리메오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 상가리산 123",
+      "address": "제주시 애월읍 상가리산 123"
+    },
+    "duration_minutes_one_way": {
+      "summit": 30
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["큰바리메오름 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'바리메'는 놋쇠로 만든 밥그릇이라는 뜻으로 스님의 공양 그릇과 비슷하다고 해서 붙여진 이름이에요."
+    ],
+    "features": [
+      "이웃한 큰바리메오름과 노꼬메오름, 새별오름, 이달오름 등 제주 서부권 오름들부터 한라산까지 두루 볼 수 있어요.",
+      "옆에 있는 큰바리메오름과 함께 트레킹 하기 좋아요."
+    ],
+    "cautions": ["이름만 보면 작은오름일 것 같지만, 의외로 산세가 거칠고 험해요."],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "좌보미오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 표선면 성읍리 133 (오름입구 앞 안내판 있음)",
+      "address": "서귀포시 표선면 성읍리 133"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "가을"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["없음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 모습이 호랑이가 앉아있는 형상이라 '좌범이'라 부르다가 현재는 '좌보미오름'이 되었어요."
+    ],
+    "features": [
+      "5개의 봉우리로 이루어진 오름으로 봉우리마다 보이는 풍광이 조금씩 다른데, 한라산과 동부권 오름군락, 성산일출봉까지 다양한 풍경을 볼 수있어요.",
+      "주변에 새끼오름(알오름)이라 불리는 작은 언덕이 많이 있어요."
+    ],
+    "cautions": [],
+    "tips": ["가을에는 억새가 뒤덮이는 억새오름이에요."],
+    "notes": []
+  },
+  {
+    "name": "지미봉",
+    "description": "",
+    "entrance": {
+      "main": "제주시 구좌읍 종달리 산2 (지미봉 주차장 좌표)",
+      "address": "제주시 구좌읍 종달리 산2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 20
+    },
+    "difficulty": "중상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["제주의 동쪽 끝에 위치하여 '지미'라고 불리는 오름이에요."],
+    "features": [
+      "우도와 성산일출봉 등 제주 동쪽 시원한 바다뷰와 종달, 오조, 성산마을과 밭 뷰를 한눈에 내려다 볼 수 있어요.",
+      "맞은 편엔 한라산도 보이고, 야경도 예쁜 곳이에요."
+    ],
+    "cautions": ["올레길 21코스로, 탐방로는 잘 되어 있으나, 경사도가 심해요."],
+    "tips": ["탁 트인 전망으로 일출이나 일몰 모두 보기 좋은 오름이에요."],
+    "notes": []
+  },
+  {
+    "name": "큰노꼬메오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 소길리 산 255-4",
+      "address": "제주시 애월읍 소길리 산 255-4"
+    },
+    "duration_minutes_one_way": {
+      "summit": 40
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "높은 산이라는 뜻의 '녹고뫼'가 발음대로 표기되어 '노꼬메'가 되었고, 이웃한 족은노꼬메오름과 구분하기 위해 큰노꼬메오름이라고 불리게 되었어요."
+    ],
+    "features": [
+      "높이가 높아 주변의 크고 작은 오름들과 한라산, 멀리 한림 앞바다까지 시원하게 볼 수 있는 곳이에요.",
+      "족은노꼬메오름과 켓물오름과 연계하여 트레킹 하기 좋아요."
+    ],
+    "cautions": [],
+    "tips": ["가을철에 억새를 겨울철에는 설경을 보러 가기 좋은 오름이에요."],
+    "notes": []
+  },
+  {
+    "name": "큰바리메오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 애월읍 상가리 산 123",
+      "address": "제주시 애월읍 상가리 산 123"
+    },
+    "duration_minutes_one_way": {
+      "summit": 40
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": false,
+      "parking": ["넓음"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "오름의 모양이 바리(놋쇠로 만든 밥그릇)와 같다고해서 '바리메'라는 이름이 붙여졌고, 이웃한 '족은바리메오름'과 구별하기 위해 '큰바리메오름'이라고 해요."
+    ],
+    "features": [
+      "한라산과 한림/애월지역 해안과 제주공항 등 제주 북서부를 전체적으로 조망할 수 있어요.",
+      "옆에 붙어있는 족은바리메오름과 함께 연계해서 가기 좋아요."
+    ],
+    "cautions": ["높이가 높고, 길이도 길며, 제법 가파른 경사예요."],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "큰지그리오름",
+    "description": "",
+    "entrance": {
+      "main": "제주시 조천읍 교래리 산 54-2",
+      "address": "제주시 조천읍 교래리 산 54-2"
+    },
+    "duration_minutes_one_way": {
+      "summit": 60
+    },
+    "difficulty": "상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["교래자연휴양림 주차장 이용"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": true,
+      "hours_and_fees": [
+        "이용시간: 매일 운영",
+        "(하절기) 07:00 ~ 16:00",
+        "(동절기) 07:00 ~ 15:00",
+        "입장료: 성인 1,000원, 청소년 600원"
+      ]
+    },
+    "name_origin": [
+      "'지그리'의 뜻은 알려진 바가 없다고 하고, '족은지그리오름'과 구분하기 위해 '큰지그리오름'이라 불러요."
+    ],
+    "features": [
+      "오름 정상에서는 한라산을 가깝게 볼 수 있고, 교래곶자왈, 바농오름, 민오름 등 주변 오름들을 360도로 조망할 수 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": ["문의: 064", "710", "7475"]
+  },
+  {
+    "name": "하논오름",
+    "description": "",
+    "entrance": {
+      "main": "서귀포시 일주동로 8823 (하논분화구방문자센터 좌표)",
+      "address": "서귀포시 일주동로 8823"
+    },
+    "duration_minutes_one_way": {
+      "summit": 10
+    },
+    "difficulty": "하",
+    "seasons": ["가을"],
+    "parking": {
+      "has_parking": true,
+      "parking": ["입구 앞 7~8대 주차 가능"]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": [
+      "'하논'이란 '큰 논'이라는 뜻으로 화산섬 제주에서 흔히 볼 수 없는 논농사를 짓는 곳으로 유명해요. 가을 추수철에 절경!"
+    ],
+    "features": [
+      "화산체의 높이 보다 분화구의 깊이가 깊은 우리나라 유일의 마르형 분화구로 생태가치가 높은 곳이에요.",
+      "올레길 7",
+      "1코스이기도 하며, 이곳에서 나오는 용천수는 외돌개나 천지연폭포로 흘러간다고 해요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  },
+  {
+    "name": "한라산 백록담",
+    "description": "",
+    "entrance": {
+      "main": "1) 성판악코스: 제주시 조천읍 516로 1865",
+      "address": "1) 성판악코스: 제주시 조천읍 516로 1865\n2) 관음사코스: 제주시 오등동 180-3"
+    },
+    "duration_minutes_one_way": {
+      "summit": 240
+    },
+    "difficulty": "최상",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "parking": {
+      "has_parking": true,
+      "parking": [
+        "각 코스 주차장이 있으나 협소하여 일찍 가시거나",
+        "대중교통을 이용하는 것을 추천드려요."
+      ]
+    },
+    "usage_and_fees": {
+      "has_admission_fee": false,
+      "hours_and_fees": []
+    },
+    "name_origin": ["'백록담'은 흰 사슴이 물을 마시는 곳이라는 뜻이에요."],
+    "features": [
+      "제주 한가운데 있는 한라산은 높이 1,950m로 대한민국에서 가장 높은 산이며, 제주의 전경을 내려다볼 수 있어요.",
+      "해발고도에 따라 아열대/온대/냉대 등 1,800종의 고산식물들이 자생하고 있어 생태가치가 아주 높은 산이에요.",
+      "사계절 다채롭게 변화해서 계절마다 다른 매력이 있어요."
+    ],
+    "cautions": [],
+    "tips": [],
+    "notes": []
+  }
+]

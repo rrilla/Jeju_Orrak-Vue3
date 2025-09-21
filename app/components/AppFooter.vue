@@ -1,4 +1,5 @@
 <script setup lang="ts">
+const routes = useAppRoutes();
 const year = new Date().getFullYear();
 </script>
 
@@ -17,7 +18,7 @@ const year = new Date().getFullYear();
         <div>
           <div class="text-sm font-semibold mb-2">바로가기</div>
           <div class="flex flex-wrap gap-2">
-            <UButton to="/search" variant="ghost" size="sm">오름 검색</UButton>
+            <UButton :to="routes.orums()" variant="ghost" size="sm">오름 검색</UButton>
             <UButton to="/quiz" variant="ghost" size="sm">추천 받기</UButton>
             <UButton to="/about" variant="ghost" size="sm">서비스 소개</UButton>
           </div>
