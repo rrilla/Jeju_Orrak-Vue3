@@ -1,6 +1,28 @@
-@import "tailwindcss";
-@import "@nuxt/ui";
+/* https://ui.nuxt.com/getting-started/theme */
+/* https://www.heropy.dev/p/E67ZHS */
+@import 'tailwindcss';
+@import '@nuxt/ui';
 
-html {
-  font-family: "Pretendard Variable", "Pretendard", system-ui, sans-serif;
+@theme static {
+  --font-sans: 'Pretendard Variable', 'Pretendard', system-ui, sans-serif;
+  /* 사용자 전용 테마 변수 생성 */
+  --color-my-text: #e96900;
+}
+
+:root {
+  /* --ui-primary: var(--ui-color-primary-700); */
+  /* --ui-bg: var(--color-white); */
+  /* --ui-text: var(--ui-color-neutral-900); */
+}
+
+.dark {
+  /* --ui-bg: var(--color-white); */
+  /* --ui-primary: var(--ui-color-primary-200); */
+  /* --ui-text: var(--ui-color-neutral-900); */
+}
+
+@layer utilities {
+  .text-my {
+    color: var(--color-my-text);
+  }
 }

@@ -22,4 +22,9 @@ export default defineNuxtConfig({
       ],
     },
   },
+  ui: {
+    theme: {
+      colors: ['myColor'],
+    },
+  },
 });
