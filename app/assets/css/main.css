@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+html {
+  font-family: "Pretendard Variable", "Pretendard", system-ui, sans-serif;
+}
