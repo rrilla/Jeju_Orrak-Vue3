@@ -107,6 +107,7 @@ const toggleTheme = () => {
               :key="item.to"
               :to="item.to"
               class="px-3 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-800"
+              active-class="bg-gray-100 dark:bg-gray-800 font-semibold"
               @click="isOpen = false"
             >
               {{ item.label }}
